@@ -1,0 +1,19 @@
+Developed by #jebinj4
+
+YouTube Video Downloader_V.0
+*******************************************************************************
+
+===> You can use Python file give here (sample.py)
+===> To Download In exe file go to http://www.mediafire.com/?5ddwq2e3zr62p
+
+*******************************************************************************
+How to use the app:
+
+1.Copy the video link
+2.Paste the link in the Enter the link field
+3.Copy your saving location
+	ie).C:\Users\MyPC\Desktop\try1
+4.Paste the link in the Enter the save location Field
+5.Click Download
+*******************************************************************************
+Happy downloading :)
